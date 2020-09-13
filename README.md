@@ -1,4 +1,4 @@
-# Meu profile do Neovim
+# My profile Neovim
 
 https://neovim.io/
 
