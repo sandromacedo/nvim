@@ -22,6 +22,13 @@ set number
 set relativenumber
 set inccommand=split
 
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set expandtab
+set autoindent
+set copyindent
+
 let mapleader="\<space>"
 nnoremap <leader> ev :vsplit ~/.config/nvim/init.vim<cr>
 nnoremap <c-p> :FZF<cr>
