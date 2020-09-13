@@ -10,6 +10,7 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'dense-analysis/ale'
 Plug 'mattn/emmet-vim'
 Plug 'jiangmiao/auto-pairs'
+Plug 'kmyk/sdl2.vim'
 call plug#end()
 
 colorscheme gruvbox
@@ -34,3 +35,4 @@ nnoremap <leader> ev :vsplit ~/.config/nvim/init.vim<cr>
 nnoremap <c-p> :FZF<cr>
 nnoremap <c-o> :NERDTreeToggle<cr>
 nnoremap <c-i> :NERDTreeFocus<cr>
+nnoremap <c-s> :w<cr>
