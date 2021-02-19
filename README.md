@@ -2,3 +2,6 @@
 
 https://neovim.io/
 
+~~~
+~./config/neovim
+~~~
